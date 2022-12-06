@@ -1,0 +1,14 @@
+F:\S A LA H\c++ pro\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.exe
+F:\S A LA H\c++ pro\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.deps.json
+F:\S A LA H\c++ pro\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.runtimeconfig.json
+F:\S A LA H\c++ pro\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.runtimeconfig.dev.json
+F:\S A LA H\c++ pro\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.dll
+F:\S A LA H\c++ pro\merge sort\merge sort\bin\Debug\netcoreapp3.1\merge sort.pdb
+F:\S A LA H\c++ pro\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.csproj.AssemblyReference.cache
+F:\S A LA H\c++ pro\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.GeneratedMSBuildEditorConfig.editorconfig
+F:\S A LA H\c++ pro\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.AssemblyInfoInputs.cache
+F:\S A LA H\c++ pro\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.AssemblyInfo.cs
+F:\S A LA H\c++ pro\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.csproj.CoreCompileInputs.cache
+F:\S A LA H\c++ pro\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.dll
+F:\S A LA H\c++ pro\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.pdb
+F:\S A LA H\c++ pro\merge sort\merge sort\obj\Debug\netcoreapp3.1\merge sort.genruntimeconfig.cache
